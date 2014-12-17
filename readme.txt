@@ -1,0 +1,1 @@
+DjangoBBS is free software.
